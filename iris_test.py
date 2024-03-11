@@ -10,7 +10,7 @@ import time
 # Function to show progress
 
 
-st.header("20PAIC51J - PYTHON FOR DATA SCIENCE \nCT3 - MINOR PROJECT")
+st.header("DATA VISUALIZATION")
 
 
 def show_progress():
