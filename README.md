@@ -35,3 +35,13 @@ Save the code in a file, e.g., iris_test.py.
 Run the application with the command: streamlit run iris_test.py.
 Access the application in your web browser at the provided URL.
 Explore the Iris dataset and visualize its features to gain a better understanding of the distribution and relationships within the data.
+
+
+![Screenshot 2024-03-11 091220](https://github.com/Siva-Subramaniam-DS/App-For-Data-Analysis/assets/138869164/2d30b2fa-a8d0-48ca-81e0-0c080d4ede8a)
+![Screenshot 2024-03-11 091243](https://github.com/Siva-Subramaniam-DS/App-For-Data-Analysis/assets/138869164/2057d3d8-4e86-4bfa-bfea-1c613e2a199b)
+![Screenshot 2024-03-11 091309](https://github.com/Siva-Subramaniam-DS/App-For-Data-Analysis/assets/138869164/c7f81957-7b39-4a5d-bc8d-7e845bb287e3)
+![Screenshot 2024-03-11 091328](https://github.com/Siva-Subramaniam-DS/App-For-Data-Analysis/assets/138869164/b188dc1c-23a3-4cc7-b0e1-59a0686d2913)
+![Screenshot 2024-03-11 091347](https://github.com/Siva-Subramaniam-DS/App-For-Data-Analysis/assets/138869164/d4df3d80-0ae6-438c-854a-4e402d2f244c)
+![Screenshot 2024-03-11 091411](https://github.com/Siva-Subramaniam-DS/App-For-Data-Analysis/assets/138869164/76e73a6d-eaf1-404c-b5dd-b25815ceeae3)
+
+
