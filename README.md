@@ -31,7 +31,7 @@ The "Summary" section offers a concise overview of the insights gained from each
 How to Run the Application
 Ensure you have Python installed on your system.
 Install the required packages using the command: pip install streamlit pandas seaborn matplotlib.
-Save the code in a file, e.g., iris_visualization.py.
-Run the application with the command: streamlit run iris_visualization.py.
+Save the code in a file, e.g., iris_test.py.
+Run the application with the command: streamlit run iris_test.py.
 Access the application in your web browser at the provided URL.
 Explore the Iris dataset and visualize its features to gain a better understanding of the distribution and relationships within the data.
